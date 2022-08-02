@@ -1,2 +1,2 @@
 # Morse-Code-Translator
-A morse-to-english and english-to-morse translator in C
+A command line morse-to-english and english-to-morse translator in C
